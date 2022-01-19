@@ -21,3 +21,5 @@ function operate(a, b, operator) {
 }
 
 console.log(operate(1, 5, "+"));
+
+// Next

@@ -1,2 +1,2 @@
 # Calculator
- Foundations Project: Calculator.
+ The Odin Project Foundations Project: Calculator.
